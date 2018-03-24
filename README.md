@@ -3,7 +3,7 @@ This is a simple tutorial for teaching you how to download videos from websites 
 
 
 ## Background
-I have helped my girlfriend to download all the videos from a website **The Rap of China** today. Although the website allows us to watch the video online, there is no option for downloading the video. My girlfriend wanted to store this classic TV show on her laptop's hard drive so it is time for me to show her how programming helps people !!! LOL.
+I have helped my girlfriend to download all the videos for **The Rap of China** from a website. Although the website allows us to watch the video online, there is no option for downloading the video. My girlfriend wanted to store this classic TV show on her laptop's hard drive so it is time for me to show her how programming helps people !!! LOL.
 
 The whole process can be summarized as **three section**:
 1. Find the actual video source links
