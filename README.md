@@ -17,6 +17,22 @@ Locate the embed player in the HTML source by using your web browser's developer
 
 If you are lucky, you would be able to find some URL links which direct you to some files with .ts as the file extension. I am not that lucky, in my case, the xxx.m3u8 file contains another xxx.m3u8 link so I have to keep digging the **true** resource links to the video.
 
+Exmaple URL links:
+```
+http://example.com/20170720/eYjHWloB/600kb/hls/EF2L1161000.ts
+http://example.com/20170720/eYjHWloB/600kb/hls/EF2L1161001.ts
+http://example.com/20170720/eYjHWloB/600kb/hls/EF2L1161002.ts
+http://example.com/20170720/eYjHWloB/600kb/hls/EF2L1161003.ts
+http://example.com/20170720/eYjHWloB/600kb/hls/EF2L1161004.ts
+http://example.com/20170720/eYjHWloB/600kb/hls/EF2L1161005.ts
+http://example.com/20170720/eYjHWloB/600kb/hls/EF2L1161006.ts
+http://example.com/20170720/eYjHWloB/600kb/hls/EF2L1161007.ts
+http://example.com/20170720/eYjHWloB/600kb/hls/EF2L1161008.ts
+http://example.com/20170720/eYjHWloB/600kb/hls/EF2L1161009.ts
+http://example.com/20170720/eYjHWloB/600kb/hls/EF2L1161010.ts
+```
+
+
 ## Download all .ts files
 
 There is a lot of ways which could achieve this. As you already have all the links for downloading a bunch of .ts files for merging as the target video. In my case, there are near two thousands of URL links which have to be downloaded. The download software usually is to heavy for this job or have some limitations with the max tasks number.
